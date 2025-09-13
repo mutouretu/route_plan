@@ -193,7 +193,7 @@ def run_from_config(cfg_path: str) -> pd.DataFrame:
     return df
 
 def _load_config(path: str) -> Dict:
-    import json, yaml, os
+    import json, yaml
     with open(path, "r", encoding="utf-8") as f:
         text = f.read()
     if path.endswith(".json"):
