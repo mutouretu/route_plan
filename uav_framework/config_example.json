@@ -1,0 +1,24 @@
+{
+  "seed": 42,
+  "uav_params": {
+    "v_spray_mps": 3.0,
+    "v_transit_mps": 8.0,
+    "battery_endurance_min": 18.0,
+    "tank_capacity_l": 15.0,
+    "flow_rate_lpm": 1.5,
+    "turn_penalty_s": 2.0,
+    "turnaround_time_min": 4.0
+  },
+  "methods": [
+    "methods.examples:method1",
+    "methods.examples:method2",
+    "methods.examples:method3",
+    "methods.examples:method4"
+  ],
+  "maps": [
+    {"type":"csv","path":"../data/durian_map_0.csv"},
+    {"type":"csv","path":"../data/durian_map_1.csv"}
+  ],
+  "repeats": 1,
+  "output_csv": "results.csv"
+}

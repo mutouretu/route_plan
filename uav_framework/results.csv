@@ -1,0 +1,9 @@
+map,method,N,TCR,L_total_m,T_op_min,num_sorties
+"{'type': 'csv', 'path': '../data/durian_map_0.csv'}",methods.examples:method1,180,1.0,3371.212530262372,32.28290349333324,3
+"{'type': 'csv', 'path': '../data/durian_map_0.csv'}",methods.examples:method2,180,1.0,25031.450634000026,204.0721694110177,16
+"{'type': 'csv', 'path': '../data/durian_map_0.csv'}",methods.examples:method3,180,1.0,3040.102785715044,30.56300239356285,3
+"{'type': 'csv', 'path': '../data/durian_map_0.csv'}",methods.examples:method4,180,1.0,2867.168736216079,29.602257674124168,3
+"{'type': 'csv', 'path': '../data/durian_map_1.csv'}",methods.examples:method1,180,1.0,3371.212530262372,32.28290349333324,3
+"{'type': 'csv', 'path': '../data/durian_map_1.csv'}",methods.examples:method2,180,1.0,25031.450634000026,204.0721694110177,16
+"{'type': 'csv', 'path': '../data/durian_map_1.csv'}",methods.examples:method3,180,1.0,3040.102785715044,30.56300239356285,3
+"{'type': 'csv', 'path': '../data/durian_map_1.csv'}",methods.examples:method4,180,1.0,2867.168736216079,29.602257674124168,3
